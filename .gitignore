@@ -1,1 +1,6 @@
+*~
+.*.swp
+tags
+
+# jekyll stuff
 _site/
